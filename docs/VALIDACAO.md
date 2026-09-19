@@ -20,3 +20,14 @@ Worktrees isoladas preservam alterações existentes no portal e nas buscas. Fon
 ## Limites
 
 O vídeo não foi retranscrito; foi analisado o resumo integral fornecido e confrontado com fontes primárias. Os anexos no clipboard remoto não concluíram a leitura. Não houve execução do código científico Dream-RSI, que não é o propósito desta entrega.
+
+## Publicação confirmada
+
+- GitHub Pages: execução `35444406211` concluída com sucesso; guia, cinco figuras, capa, análise e plano responderam HTTP 200.
+- Portal: commit `eb343dc`, push em `NeiMaldaner/portal`.
+- Buscas: commit `fd6c290`, push em `inematds/inemabuscas` pelo remoto correto `inemabuscas` (o `origin` desse clone aponta para outro repo).
+- PRO: commit `747329f`, push em `inematds/inemapro`.
+- Base gerada: 18.277 itens, com 277 cursos, 235 projetos, 157 páginas wiki, 2.457 resumos, 12.312 clips, 1.393 lives, 6 itens Telegram e 1.440 prompts. Nenhum ID anterior removido; um novo ID adicionado.
+- Classificação confirmada para `projeto:google-rsi-guia`; 100% dos cursos/projetos classificados. O normalizador inclui o segmento `guia` no ID.
+- Os 41 testes do content-base passaram. Somados aos 9 do portal: 50 testes, além das verificações de navegador e TypeScript.
+- Vercel não foi consultado: publicação dos catálogos considerada concluída pelos pushes.

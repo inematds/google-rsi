@@ -1,2 +1,5 @@
 # Tarefa atual
-Concluir validação e publicar guia e cadastro nos três catálogos INEMA. Expansão didática fica no plano; antes de criar curso HTML escolher versão com o usuário.
+
+Concluída: análise de fontes, plano educativo, landing+guia, figuras originais, validação e publicação em Pages, portal, buscas e PRO.
+
+Expansão opcional descrita no plano: encontros, laboratório de replay e piloto. Não executar sem nova solicitação. Se houver curso HTML, perguntar formato v5 ou v2.
