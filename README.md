@@ -1,5 +1,7 @@
 # Dream-RSI — Aprender a descobrir
 
+**🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
+
 Projeto educativo independente INEMA sobre como históricos de experimentos podem orientar melhores estratégias de pesquisa em IA.
 
 **[Abrir landing + guia](https://inematds.github.io/google-rsi/guia/)** · [Plano educativo](docs/PLANO-EDUCATIVO.md) · [Análise das fontes](docs/ANALISE.md)
